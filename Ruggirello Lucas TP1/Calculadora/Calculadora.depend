@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1553611013 source:c:\users\alumno\desktop\tp1\calculadora\menu.c
+
+1553610850 source:c:\users\alumno\desktop\tp1\calculadora\pedirentero.c
+	"PedirEntero.h"
+	<stdio.h>
+
+1553612639 c:\users\alumno\desktop\tp1\calculadora\pedirentero.h
+
+1553606166 source:c:\users\alumno\desktop\tp1\calculadora\recursividad.c
+	"Recursividad.h"
+
+1553610838 c:\users\alumno\desktop\tp1\calculadora\recursividad.h
+
+1553611139 source:c:\users\alumno\desktop\tp1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1553610280 c:\users\alumno\desktop\tp1\calculadora\menu.h
+
+1553612126 source:c:\users\alumno\desktop\tp1\calculadora\operaciones.c
+
+1554245675 source:c:\users\rushi\desktop\clase-master\tp1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"Operaciones.h"
+
+1553706619 c:\users\rushi\desktop\clase-master\tp1\calculadora\menu.h
+
+1554330872 source:c:\users\rushi\desktop\clase-master\tp1\calculadora\operaciones.c
+	"Operaciones.h"
+
+1554331085 c:\users\rushi\desktop\clase-master\tp1\calculadora\operaciones.h
+
+1554421124 source:c:\users\rushi\desktop\clase-master\tp1\calculadora\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"Operaciones.h"
+
+1553708900 source:c:\users\rushi\desktop\clase-master\tp1\calculadora\pedirnumero.c
+	"PedirNumero.h"
+	<stdio.h>
+
+1553708914 c:\users\rushi\desktop\clase-master\tp1\calculadora\pedirnumero.h
+
